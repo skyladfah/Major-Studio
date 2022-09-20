@@ -1,4 +1,6 @@
-1) Number of seats held by woman in the US national parliaments from 2000-2022 (number)
+<h1>01B Concept & Sketches</h1>
+
+<h3>1) Number of seats held by woman in the US national parliaments from 2000-2022 (number)</h3>
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_1.jpeg)
 
 This pictogram chart represents the number of seats held by women in the US national parliament from 2000 to 2022, measuring in numbers.
@@ -7,8 +9,8 @@ The concept is to display the total seats available in the US national parliamen
 
 In 2022, there are 435 seats available in the US parliament. However, the question is what’s about the other years such as 10 years ago, were there 435 seats back then? How regularly do seat numbers change over time.
 
-2) Beach litter originating from national land-based sources that ends in ocean in 2021 (tonnes)
-Concept 2
+<h3>2) Beach litter originating from national land-based sources that ends in ocean in 2021 (tonnes)</h3>
+![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_2.jpeg)
 
 This bubble map demonstrates the amount of beach litter originating from national land-based sources that ends in the ocean in 2021, measuring in Tonnes.
 
@@ -16,8 +18,8 @@ The concept is to initially group the data into 6 continents; Asia, Europe, Sout
 
 It is interesting to think about the bubble size, especially, with the map can be zoom-in and out. How can we make the bubble size synchronise with it own data, as well as other bubbles’ data?
 
-3) Food waste in 2019 in America, China and Japan (tonnes)
-Concept 3
+<h3>3) Food waste in 2019 in America, China and Japan (tonnes)</h3>
+![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_3.jpeg)
 
 This stack bar graph represents food waste in 2019 in the world leading countries, including America, China and Japan. The data is measured in tonnes, focusing on retail, house hold an out-of consumption food waste.
 
