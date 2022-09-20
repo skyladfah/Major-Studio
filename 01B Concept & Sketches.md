@@ -11,7 +11,6 @@ In 2022, there are 435 seats available in the US parliament. However, the questi
 
 <h3>2) Beach litter originating from national land-based sources that ends in ocean in 2021 (tonnes)</h3>
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_2.jpeg)
-
 This bubble map demonstrates the amount of beach litter originating from national land-based sources that ends in the ocean in 2021, measuring in Tonnes.
 
 The concept is to initially group the data into 6 continents; Asia, Europe, South America, North America, Africa, and Oceania. The amount of beach litter represents in transparent circles, displaying over geographic regions. The size are varies depend on the amount of beach litter each continent generated. Users can then click on the continent they are interested to explore and the map zooms in to show deeper data on each country in that chosen continent.
@@ -20,7 +19,6 @@ It is interesting to think about the bubble size, especially, with the map can b
 
 <h3>3) Food waste in 2019 in America, China and Japan (tonnes)</h3>
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_3.jpeg)
-
 This stack bar graph represents food waste in 2019 in the world leading countries, including America, China and Japan. The data is measured in tonnes, focusing on retail, house hold an out-of consumption food waste.
 
 It is interesting to see how these 3 leading countries have different amount of food waste in each sector. For example, there is 73% of house hold food waste in Japan while 51% in China. I am curious to explore why is that. Is there a cultural reason related? Is it the type of food available?
