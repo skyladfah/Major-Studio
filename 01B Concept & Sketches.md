@@ -1,6 +1,7 @@
 <h1>01B Concept & Sketches</h1>
 
 <h3>1) Number of seats held by woman in the US national parliaments from 2000-2022 (number)</h3>
+
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_1.jpeg)
 
 This pictogram chart represents the number of seats held by women in the US national parliament from 2000 to 2022, measuring in numbers.
@@ -10,6 +11,7 @@ The concept is to display the total seats available in the US national parliamen
 In 2022, there are 435 seats available in the US parliament. However, the question is what’s about the other years such as 10 years ago, were there 435 seats back then? How regularly do seat numbers change over time.
 
 <h3>2) Beach litter originating from national land-based sources that ends in ocean in 2021 (tonnes)</h3>
+
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_2.jpeg)
 
 This bubble map demonstrates the amount of beach litter originating from national land-based sources that ends in the ocean in 2021, measuring in Tonnes.
