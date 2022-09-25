@@ -37,6 +37,9 @@ https://user-images.githubusercontent.com/26165278/191165769-d166a3cc-d994-48e7-
 </ul>
 
 <h2>Code Prototype</h2>
+
+![image](https://user-images.githubusercontent.com/26165278/192161104-19eef84b-a0b0-4d7c-babb-d1b487172893.png)
+
 <bold>Coding Steps</bold>
 
 <p>1. Extract Static elements</p>
