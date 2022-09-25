@@ -25,7 +25,7 @@
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/design%20mock%20up_2022.jpg)
 
 <h3>Interaction Mockup </h3>
-[![Watch the video](https://user-images.githubusercontent.com/26165278/191165769-d166a3cc-d994-48e7-adb2-958291359ece.mp4)
+https://user-images.githubusercontent.com/26165278/191165769-d166a3cc-d994-48e7-adb2-958291359ece.mp4
 
 <p>To wisely use the UNSDG data set, instead of exploring deeper into one country (e.g. the US politics), I will make a comparison between countries. For example, the country with a low and a high Gender Inequality Index (GII) OR male vs female leader countries.</p>
 
