@@ -21,6 +21,7 @@ The concept is to initially group the data into 6 continents; Asia, Europe, Sout
 It is interesting to think about the bubble size, especially, with the map can be zoom-in and out. How can we make the bubble size synchronise with it own data, as well as other bubbles’ data?
 
 <h3>3) Food waste in 2019 in America, China and Japan (tonnes)</h3>
+
 ![image](https://github.com/skyladfah/Major-Studio/blob/main/sketches_3.jpeg)
 
 This stack bar graph represents food waste in 2019 in the world leading countries, including America, China and Japan. The data is measured in tonnes, focusing on retail, house hold an out-of consumption food waste.
